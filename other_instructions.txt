@@ -1,0 +1,5 @@
+PowerShell Core: Install-Module -Name PSReadLine -AllowPrerelease -Scope CurrentUser -Force -SkipPublisherCheck
+
+https://github.com/microsoft/cascadia-code/releases and change the fontFace in your settings.json to "Cascadia Code PL"
+
+"fontFace":  "Cascadia Code PL"
